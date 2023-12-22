@@ -1,1 +1,0 @@
-import{_ as l,o,c as t,d as e,e as n}from"./app-a584fcae.js";const s={},c=e("p",null,[e("strong",null,"做笔记要素：")],-1),_=e("blockquote",null,[e("ul",null,[e("li",null,[n("方便"),e("strong",null,"复习")]),e("li",null,[e("strong",null,"简洁")])])],-1),r=[c,_];function u(a,d){return o(),t("div",null,r)}const f=l(s,[["render",u],["__file","solve.html.vue"]]);export{f as default};
